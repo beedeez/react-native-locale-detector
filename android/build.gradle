@@ -38,5 +38,4 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:'+safeExtGet('reactNativeVersion', '+')
-    compile 'net.openid:appauth:0.7.1'
 }
